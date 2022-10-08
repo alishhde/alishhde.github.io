@@ -372,7 +372,32 @@ content:
             | C/C++  | centered      |   $12 |
             | Matlab | are neat      |    $1 |
             
+            <!DOCTYPE html>
             
+            <html>
+            <body>
+            <table>
+              <tr>
+                <th>
+                  <dl>
+                        Coffee
+                        <dd>- black hot drink</dd>
+                  </dl>
+                </th>
+
+                <th>
+                  <dl>
+                        <dt>Coffee</dt>
+                        <dd>- black hot drink</dd>
+                  </dl>    
+                </th>
+              </tr>
+            </table>
+
+            </body>
+            </html>
+
+
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
 # Experience #########################################################################################################
