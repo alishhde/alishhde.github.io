@@ -370,11 +370,7 @@ content:
                 <body>
                     <table>
                         <tr>
-                            <th>
-                                <dl>
-                                    <dt>Programming/Scripting</dt>
-                                </dl>
-                            </th>
+                            <th> Programming/Scripting </th>
 
                             <th>
                                 <dl>
