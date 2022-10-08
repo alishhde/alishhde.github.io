@@ -365,13 +365,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
-        description: | # this will include new lines to allow paragraphs
-            | Programming  | Applications  | Cool  |
-            | :---:  |:---:|:---:|
-            | Python | right-aligned | $1600 |
-            | C/C++  | centered      |   $12 |
-            | Matlab | are neat      |    $1 |
-            
+        description: | # this will include new lines to allow paragraphs            
             <html>
                 <body>
                     <table>
@@ -400,18 +394,37 @@ content:
                             <td>
                                 <ul>
                                     <li>Python</li>
+                                    <ul>
+                                        <li>Pandas</li>
+                                        <li>Pandas1</li>
+                                        <li>Pandas2</li>
+                                        <li>Pandas3</li>
+                                        <li>Pandas4</li>
+                                    </ul>
+                                    <li>Python1</li>
+                                    <li>Python2</li>
+                                    <li>Python3</li>
+                                    <li>Python4</li>
                                 </ul>
                             </td>
 
                             <td>
                                 <ul>
                                     <li>Mendely</li>
+                                    <li>Mendely1</li>
+                                    <li>Mendely2</li>
+                                    <li>Mendely3</li>
+                                    <li>Mendely4</li>
                                 </ul>    
                             </td>
 
                             <td>
                                 <ul>
                                   <li>IoT</li>
+                                  <li>IoT1</li>
+                                  <li>IoT2</li>
+                                  <li>IoT3</li>
+                                  <li>IoT4</li>
                                 </ul>  
                             </td>
                         </tr>
