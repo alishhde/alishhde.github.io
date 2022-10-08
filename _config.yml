@@ -373,34 +373,51 @@ content:
             | Matlab | are neat      |    $1 |
             
             <html>
-            <body>
-            <table>
-              <tr>
-                <th>
-                  <dl>
-                        <dt>Programming/Scripting</dt>
-                        <dd>- black hot drink</dd>
-                  </dl>
-                </th>
+                <body>
+                    <table>
+                        <tr>
+                            <th>
+                                <dl>
+                                    <dt>Programming/Scripting</dt>
+                                </dl>
+                            </th>
 
-                <th>
-                  <dl>
-                        <dt>Applications</dt>
-                        <dd>- black hot drink</dd>
-                  </dl>    
-                </th>
-                
-                <th>
-                  <dl>
-                        <dt>Other Skills</dt>
-                        <dd>- black hot drink</dd>
-                  </dl>    
-                </th>
-                
-              </tr>
-            </table>
+                            <th>
+                                <dl>
+                                    <dt>Applications</dt>
+                                </dl>    
+                            </th>
 
-            </body>
+                            <th>
+                                <dl>
+                                    <dt>Other Skills</dt>
+                                </dl>    
+                            </th>
+                        </tr>
+                        
+                        
+                        <tr>
+                            <td>
+                                <ul>
+                                    <li>Python</li>
+                                </ul>
+                            </td>
+
+                            <td>
+                                <ul>
+                                    <li>Mendely</li>
+                                </ul>    
+                            </td>
+
+                            <td>
+                                <ul>
+                                  <li>IoT</li>
+                                </ul>  
+                            </td>
+                        </tr>
+                        
+                    </table>
+                </body>
             </html>
 
 
