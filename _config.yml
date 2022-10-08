@@ -12,7 +12,7 @@ email: ali.shhhde00@gmail.com
 # website: www.github.com/alishhde/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: alishhde
@@ -367,24 +367,22 @@ content:
         caption: November 2017 - Present
         description: | # this will include new lines to allow paragraphs            
             <html>
+                <head>
+                      <style>
+                              table, th, td {
+                                border: 1px solid black;
+                                border-collapse: collapse;
+                              }
+                      </style>
+                </head>
+                
                 <body>
                     <table>
                         <tr>
                             <th> Programming/Scripting </th>
-
-                            <th>
-                                <dl>
-                                    <dt>Applications</dt>
-                                </dl>    
-                            </th>
-
-                            <th>
-                                <dl>
-                                    <dt>Other Skills</dt>
-                                </dl>    
-                            </th>
+                            <th> Applications </th>
+                            <th> Other Skills </th>
                         </tr>
-                        
                         
                         <tr>
                             <td>
