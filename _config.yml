@@ -376,7 +376,7 @@ content:
                                   font-size: 16px;
                               }
                               th {
-                                text-align: center;
+                                text-align: left;
                               }
                               td {
                                 vertical-align: top;
@@ -395,9 +395,9 @@ content:
                         </tr>
                         
                         <tr>
-                            <td>
+                            <td align="left">
                                 <ul>
-                                    <li>Python</li>
+                                    Python
                                     <ul>
                                         <li>Pandas</li>
                                         <li>Pandas1</li>
@@ -412,9 +412,9 @@ content:
                                 </ul>
                             </td>
 
-                            <td>
+                            <td align="left">
                                 <ul>
-                                    <li>Mendely</li>
+                                    Mendely
                                     <li>Mendely1</li>
                                     <li>Mendely2</li>
                                     <li>Mendely3</li>
@@ -422,9 +422,9 @@ content:
                                 </ul>    
                             </td>
 
-                            <td>
+                            <td align="left">
                                 <ul>
-                                  <li>IoT</li>
+                                  IoT
                                   <li>IoT1</li>
                                   <li>IoT2</li>
                                   <li>IoT3</li>
