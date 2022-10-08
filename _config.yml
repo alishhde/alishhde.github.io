@@ -1,0 +1,397 @@
+# Site
+repository: alishhde/alishhde.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Seyedali Shohadaeolhosseini
+title: Computer Engineering Student 
+email: ali.shhhde00@gmail.com
+# website: www.github.com/alishhde/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: alishhde
+github_username:  alishhde
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: alishhde
+linkedin_username: alishhde
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username: alishhde
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Ali and I'm a Computer Engineering Student, a Tutor, a Researcher, and as well as a knowledge seeker.
+  I'm in love with the Artificial Intelligence concepts specially the part in which you 
+  can build unblievable robots or an intelligent agent what can think, interact, learn and do your
+  defined jobs in its more flexible way. WOW the lifelong ambition... :)
+  <br/>
+   - I am most skilled in: 
+      - <mark>Programming</mark> specially with <mark>python</mark>
+      - <mark>Internet of Things</mark>
+      - <mark>Teaching</mark>
+      - <mark>Researching</mark>
+  
+   - I am really interested in: 
+      - <mark>Machine Learning</mark>
+      - <mark>Natural Language Processing</mark>
+      - <mark>Data Mining</mark>
+      - <mark>Vision</mark>
+
+content:
+
+# Education #########################################################################################################
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Mazandaran 
+        sub_title: B.Sc. Computer Engineering
+        link: https://en.umz.ac.ir/
+        caption: May 2018 - January 2023        
+        quote: >
+          University of Mazandaran (UMZ), currently the largest state higher education center in the province of 
+          Mazandaran, had formerly consisted of a number of tertiary education centers. In 1979 the centers were
+          officially merged to form what is now known as University of Mazandaran.  In recent years, UMZ has 
+          made significant progress, expanding itself with vision both qualitatively and quantitatively.
+          
+        description: | # this will include new lines to allow paragraphs
+          During my time at UMZ I learnt most of my key skills that have I have taken through my career such as 
+          teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot 
+          about various things in computer world and as well as various life aspects.
+
+          I spent a lot of my time in the Lab working as an assistant in my last year of education.
+          
+          
+# Projects #########################################################################################################
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    # 1st Project
+      - layout: left
+        title: OpenFaaS framework
+        sub_title: Cloud Computing, Personal Project 
+        caption: Spring 2022
+#         link: github.com/alishhde
+#         link_text: Project Repository
+#         additional_links:
+#           - title:  Github page for project
+#             icon: fab fa-github
+#             url: alishhde/alishhde
+          
+        description: | # this will include new lines to allow paragraphs
+          An presentation of how to run Function as a Service by OpenFaaS framework 
+          and how to implement projects like simple python functions with its help. 
+          In addition, a research on this project is on its first steps.
+    
+    # 2nd Project
+      - layout: left
+        title: Code Smell
+        sub_title: Software Engineering II, Personal Project
+        caption: Summer 2022
+        link: https://github.com/alishhde/CodeSmells
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/CodeSmells
+        
+        description: | # this will include new lines to allow paragraphs
+          A research has been conducted in this topic. Research consists of 
+          implementation of some of the different smells as an example with the help of python programming
+          language and also reading a couple of articles and gathering data by crawling and making datasets ready 
+          for next steps of the research. 
+          
+    # 3rd Project
+      - layout: left
+        title: Air Quality Index
+        sub_title: Internet of Things, Group Project
+        caption: Winter-Spring 2022
+#         link: github.com/alishhde
+#         link_text: Project Repository
+#         additional_links:
+#           - title:  Github page for project
+#             icon: fab fa-github
+#             url: alishhde/alishde
+          
+        description: | # this will include new lines to allow paragraphs
+          The project involves researching an IoT solution to monitor and control indoor 
+          air quality (More detail has been provided on Research section of this page)
+
+    # 4th Project
+      - layout: left
+        title: Implementation of LZW algorithm
+        sub_title: Multimedia Systems, Personal Project 
+        caption: Spring 2022
+        link: https://github.com/alishhde/LZWAlgorithm
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/LZWAlgorithm
+          
+        description: | # this will include new lines to allow paragraphs
+          Python has been used to implement both the coder and decoder part of the LZW algorithm
+          
+    # 5th Project
+      - layout: left
+        title: Implementation of RLC algorithm
+        sub_title: Multimedia Systems, Personal Project 
+        caption: Spring 2022
+        link: https://github.com/alishhde/RunLengthAlgorithm
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/RunLengthAlgorithm
+          
+        description: | # this will include new lines to allow paragraphs
+          The objective was accomplished by implementing the RLC and RLE components of the Run Length algorithm
+          
+    # 6th Project
+      - layout: left 
+        title: Implementation of Huffman algorithm
+        sub_title: Multimedia Systems, Personal Project 
+        caption: Spring 2022
+        link: https://github.com/alishhde/HuffmanAlgorithm
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/HuffmanAlgorithm
+          
+        description: | # this will include new lines to allow paragraphs
+          In this project, the Huffman codec algorithm has been fully implemented in Python
+          
+    # 7th Project
+      - layout: left
+        title: Internet of Things projects
+        sub_title: Implementation of 10+ IoT projects under my supervision
+        caption: Winter-Spring-Summer 2022
+        link: https://github.com/alishhde/TA-UMZ-IoT
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/TA-UMZ-IoT
+          
+        description: | # this will include new lines to allow paragraphs
+          With my assistance, 10+ teams have implemented 10+ IoT projects in various domains
+          
+    # 8th Project
+      - layout: left
+        title: Genetic algorithm implementation
+        sub_title:  Intro. to Computational Intelligence, Personal Project
+        caption: Spring 2021
+        link: https://github.com/alishhde/Evolutionary-Strategy-UMZ
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/Evolutionary-Strategy-UMZ
+          
+        description: | # this will include new lines to allow paragraphs
+          Implementation of the genetic algorithm from scratch, without 
+          the assistance of pre-built modules containing this algorithm.
+          In this project we wanted to find the global maximum of a given
+          function with the help of genetic algorithm.
+          
+    # 9th Project
+      - layout: left
+        title: Evolutionary Strategy algorithm
+        sub_title:  Intro. to Computational Intelligence, Personal Project
+        caption: Spring 2021
+        link: https://github.com/alishhde/Evolutionary-Strategy-UMZ
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/Evolutionary-Strategy-UMZ
+          
+        description: | # this will include new lines to allow paragraphs
+          The ES algorithm for locating the minimum of a given function has been implemented.
+          The main part of this project was to implement the algorithm without help of any third-party modules.
+          
+    # 10th Project
+      - layout: left
+        title: Backpropagation Algorithm
+        sub_title:  Intro. to Computational Intelligence, Personal Project
+        caption: Spring 2021
+        link: https://github.com/alishhde/Deep-Learning-UMZ/blob/main/Q1/MLP.py
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/Deep-Learning-UMZ/blob/main/Q1/MLP.py
+          
+        description: | # this will include new lines to allow paragraphs
+          The IRIS data set from the sklearn module was used to implement the
+          Backpropagation algorithm from scratch, with no assistance from additional modules
+          
+     # 11th Project
+      - layout: left
+        title: MNIST Dataset with MLP
+        sub_title: Intro. to Computational Intelligence, Personal Project 
+        caption: Spring 2021
+        link: https://github.com/alishhde/Deep-Learning-UMZ/blob/main/Q2/Q2.ipynb
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/Deep-Learning-UMZ/blob/main/Q2/Q2.ipynb
+          
+        description: | # this will include new lines to allow paragraphs
+          The objective of this project was to train an MLP model for prediction using the MNIST data set
+          
+    # 12nd Project
+      - layout: left
+        title: Neural Network Algorithm
+        sub_title: Intro. to Computational Intelligence, Personal Project 
+        caption: Spring 2021
+        link: https://github.com/alishhde/Deep-Learning-UMZ/blob/main/Q1/MLP.py
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/Deep-Learning-UMZ/blob/main/Q1/MLP.py
+          
+        description: | # this will include new lines to allow paragraphs
+          Used Python to implement NN Algorithm from zero to hero.
+          
+    # 13st Project
+      - layout: left
+        title: AI Classical Search
+        sub_title: Intro. to Artificial Intelligence, Personal Project
+        caption: Fall 2021
+        link: https://github.com/alishhde/AISearchAlgorithm
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/AISearchAlgorithm
+          
+        description: | # this will include new lines to allow paragraphs
+          Used Python to implement a module containing BFS, DFS, Greedy,
+          UCS, A* etc algorithm. These algorithms have been implemented on
+          the 8 puzzle problem as the default problem.
+          
+    # 14nd Project
+      - layout: left
+        title: MNIST digits dataset classification
+        sub_title:  Data Mining, Personal Project
+        caption: Spring 2021
+        link: https://github.com/alishhde/MachineLearningTutorials
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/MachineLearningTutorials
+          
+        description: | # this will include new lines to allow paragraphs
+          Used Python and Digits dataset from SKLearn module and different
+          ready to use algorithm like KNN, RandomForest, Naive Bayes, Decision Tree, 
+          XGboost and LinearRegression to train the digits' dataset to create an 
+          estimator which can predict and classify the input image. I've done similar 
+          project in Matlab Workshop course too.
+          
+    # 15st Project
+      - layout: left
+        title: Shop Center Application
+        sub_title: Advanced Programming, Personal Project
+        caption: Spring 2019
+        link: https://github.com/alishhde/ShopCenterApplication
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/ShopCenterApplication
+          
+        description: | # this will include new lines to allow paragraphs
+          Used Python to implement a Windows Shop Center application. 
+          This application has three part, customer, store manager and main
+          manager. I have used Sqlite3 for database and QT for its GUI.
+          
+    # 16nd Project
+      - layout: left
+        title: File Manager Application
+        sub_title: Advanced Programming, Personal Project
+        caption: Spring 2019
+        link: https://github.com/alishhde/File-Manager
+        link_text: Project Repository
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/alishhde/File-Manager
+          
+        description: | # this will include new lines to allow paragraphs
+          With this application you can easily manage main and basic work of
+          a file manager like, deleting or adding a new directory or file,
+          change directory easily and create text files and its texts and many more.
+
+# Experience #########################################################################################################
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: The Boring Company
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
