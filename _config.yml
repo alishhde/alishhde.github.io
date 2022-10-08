@@ -382,6 +382,7 @@ content:
                                 vertical-align: top;
                                 horizontal-align: left;
                                 font-size: 14px;
+                                padding-left: 15px;
                               }
                       </style>
                 </head>
