@@ -376,7 +376,7 @@ content:
                                 text-align: left;
                               }
                               td {
-                                text-align: up;
+                                vertical-align: top;
                               }
                       </style>
                 </head>
