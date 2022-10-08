@@ -355,8 +355,6 @@ content:
           a file manager like, deleting or adding a new directory or file,
           change directory easily and create text files and its texts and many more.
 
-      - layout: 
-      
 # Skills #########################################################################################################
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
@@ -367,9 +365,14 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+            | Tables        | Are           | Cool  |
+            | ------------- |:-------------:| -----:|
+            | col 3 is      | right-aligned | $1600 |
+            | col 2 is      | centered      |   $12 |
+            | zebra stripes | are neat      |    $1 |
+            
+            
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
 # Experience #########################################################################################################
