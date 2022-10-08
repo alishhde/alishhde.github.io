@@ -380,6 +380,7 @@ content:
                               }
                               td {
                                 vertical-align: top;
+                                horizontal-align: left;
                                 font-size: 14px;
                               }
                       </style>
