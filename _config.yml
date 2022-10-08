@@ -355,6 +355,14 @@ content:
           a file manager like, deleting or adding a new directory or file,
           change directory easily and create text files and its texts and many more.
 
+      - layout: top-middle
+        | First Header  | Second Header |
+        | ------------- | ------------- |
+        | Content Cell  | Content Cell  |
+        | Content Cell  | Content Cell  |
+
+
+
 # Experience #########################################################################################################
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
