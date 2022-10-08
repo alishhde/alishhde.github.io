@@ -370,8 +370,13 @@ content:
                 <head>
                       <style>
                               table, th, td {
-                                border: 1px solid black;
-                                border-collapse: collapse;
+                                border: none;
+                              }
+                              th {
+                                text-align: left;
+                              }
+                              td {
+                                text-align: up;
                               }
                       </style>
                 </head>
