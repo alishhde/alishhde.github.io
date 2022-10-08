@@ -397,38 +397,57 @@ content:
                         <tr>
                             <td align="left">
                                 <ul>
-                                    Python
+                                    <li>Python</li>
                                     <ul>
                                         <li>Pandas</li>
-                                        <li>Pandas1</li>
-                                        <li>Pandas2</li>
-                                        <li>Pandas3</li>
-                                        <li>Pandas4</li>
+                                        <li>Numpy</li>
+                                        <li>SKlearn</li>
+                                        <li>Jupyters</li>
+                                        <li>PyQt5</li>
+                                        <li>Tkinter</li>
                                     </ul>
-                                    <li>Python1</li>
-                                    <li>Python2</li>
-                                    <li>Python3</li>
-                                    <li>Python4</li>
+                                    <li>C/C++</li>
+                                    <li>Matlab</li>
+                                    <li>Octave</li>
+                                    <li>Django</li>
+                                    <li>Bootstrap/JS</li>                                    
+                                    <li>HTML5/CSS3</li>
+                                    <li>SQLite</li>
+                                    <li>SQLALchemy</li>
                                 </ul>
                             </td>
 
                             <td align="left">
                                 <ul>
-                                    Mendely
-                                    <li>Mendely1</li>
-                                    <li>Mendely2</li>
-                                    <li>Mendely3</li>
-                                    <li>Mendely4</li>
+                                    <li>Mendely</li>
+                                    <li>Kubernetes</li>
+                                    <li>OpenFaaS</li>
+                                    <li>Fission</li>
+                                    <li>Docker</li>
+                                    <li>Freetzing</li>
+                                    <li>Arduino</li>
+                                    <li>Google Colab</li>
+                                    <li>QT Designer</li>
+                                    <li>Anaconda</li>
+                                    <li>Pycharm</li>
+                                    <li>VSCode</li>
+                                    <li>Git</li>
+                                    <li>Camtasia</li>
+                                    <li>Proteus</li>
+                                    <li>Trello</li>
+                                    <li>Matlab</li>
+                                    <li>MS Office</li>
                                 </ul>    
                             </td>
 
                             <td align="left">
                                 <ul>
-                                  IoT
-                                  <li>IoT1</li>
-                                  <li>IoT2</li>
-                                  <li>IoT3</li>
-                                  <li>IoT4</li>
+                                  <li>IoT</li>
+                                  <li>Raspberry Pi</li>
+                                  <li>WordPress</li>
+                                  <li>Arduino</li>
+                                  <li>LaTeX</li>
+                                  <li>Assembly</li>
                                 </ul>  
                             </td>
                         </tr>
