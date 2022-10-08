@@ -67,6 +67,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
+
 # Education #########################################################################################################
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -90,7 +91,72 @@ content:
           I spent a lot of my time in the Lab working as an assistant in my last year of education.
           
           
-# Projects #########################################################################################################
+# Research Interest ##############################################################################################################################
+  - title: Research Interest # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: What am I looking for ?
+#         sub_title: B.Sc. Computer Engineering
+#         link: https://en.umz.ac.ir/
+#         caption: May 2018 - January 2023     
+        description: | # this will include new lines to allow paragraphs
+          Descriptions are here
+          
+          
+# Honor & Rewards ############################################################################################################################
+  - title: Honor & Rewards # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: What am I looking for ?
+#         sub_title: B.Sc. Computer Engineering
+#         link: https://en.umz.ac.ir/
+#         caption: May 2018 - January 2023     
+        description: | # this will include new lines to allow paragraphs
+          Descriptions are here
+
+
+# Research & Practical Experience #########################################################################################################
+  - title: Research & Practical Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: What am I looking for ?
+#         sub_title: B.Sc. Computer Engineering
+#         link: https://en.umz.ac.ir/
+#         caption: May 2018 - January 2023     
+        description: | # this will include new lines to allow paragraphs
+          Descriptions are here
+         
+         
+# TEACHING EXPERIENCE #########################################################################################################
+  - title: Teaching Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: What am I looking for ?
+#         sub_title: B.Sc. Computer Engineering
+#         link: https://en.umz.ac.ir/
+#         caption: May 2018 - January 2023     
+        description: | # this will include new lines to allow paragraphs
+          Descriptions are here
+         
+          
+# Work Experience #########################################################################################################
+  - title: Teaching Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: What am I looking for ?
+#         sub_title: B.Sc. Computer Engineering
+#         link: https://en.umz.ac.ir/
+#         caption: May 2018 - January 2023     
+        description: | # this will include new lines to allow paragraphs
+          Descriptions are here
+         
+          
+# Projects #############################################################################################################################################
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -355,6 +421,7 @@ content:
           a file manager like, deleting or adding a new directory or file,
           change directory easily and create text files and its texts and many more.
 
+
 # Skills #########################################################################################################
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
@@ -364,7 +431,7 @@ content:
 #         link: boringcompany.com
         # link_text: boringcompany.com
 #         sub_title: Start from May 2018
-        caption: Start from May 2018
+        caption: Started from May 2018
         description: | # this will include new lines to allow paragraphs            
             <html>
                 <head>
@@ -458,7 +525,22 @@ content:
             
             The list is still being updated since I'm updating myself ;)
 
-# Experience #########################################################################################################
+         
+          
+# Selected Courses #########################################################################################################
+  - title: Teaching Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: What am I looking for ?
+#         sub_title: B.Sc. Computer Engineering
+#         link: https://en.umz.ac.ir/
+#         caption: May 2018 - January 2023     
+        description: | # this will include new lines to allow paragraphs
+          Descriptions are here
+         
+     
+# Language Skill  #########################################################################################################
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
