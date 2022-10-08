@@ -144,7 +144,7 @@ content:
          
           
 # Work Experience #########################################################################################################
-  - title: Teaching Experience # Title for the section
+  - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
