@@ -98,33 +98,35 @@ content:
       - layout: top-middle
         title: Machine learning    
         description: | # this will include new lines to allow paragraphs
-          As a tool for creating intelligent agent on our projects
+          - As a tool for creating intelligent agent in our projects
           
       - layout: top-middle
         title: Natural Language Processing
         description: | # this will include new lines to allow paragraphs
-          To help this agent, understand me and describe me the things I want
+          - To help this agent, understand me and describe me the things I ask for
           
       - layout: top-middle
         title: Internet of Things
         description: | # this will include new lines to allow paragraphs
-          To connect agents to each other to do the work in a more efficient way
+          - To connect these smart agents to each other to do the work in a more efficient way
           
       - layout: top-middle
         title: Data Mining
         description: | # this will include new lines to allow paragraphs
-          These agents need to be able to process the entry data for the specific purposes  
+          - As a feature for these agents to help them to be able to process the entry data for their speecified purposes  
           
       - layout: top-middle
         title: Image Processing/Vision
         description: | # this will include new lines to allow paragraphs
-          The agent also have eyes to see and understand 
+          - The agent also have eyes to see, understand, and comprehend 
           
       - layout: top-middle
         title: Robotics
         description: | # this will include new lines to allow paragraphs
-          A mix of all of my prior interest :)
+          - A mix of all of my prior interest :) 
           
+          My interests are totally in artificial intellegince and its concepts so any job/position that somehow relates to the AI concepts is OK and
+          Acceptable.
           
 # Honor & Rewards ############################################################################################################################
   - title: Honor & Rewards # Title for the section
