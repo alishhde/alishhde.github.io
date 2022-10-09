@@ -100,27 +100,27 @@ content:
         description: | # this will include new lines to allow paragraphs
           - As a tool for creating intelligent agent in our projects
           
-      - layout: top-middle
+      - layout: left
         title: Natural Language Processing
         description: | # this will include new lines to allow paragraphs
           - To help this agent, understand me and describe me the things I ask for
           
-      - layout: top-middle
+      - layout: left
         title: Internet of Things
         description: | # this will include new lines to allow paragraphs
           - To connect these smart agents to each other to do the work in a more efficient way
           
-      - layout: top-middle
+      - layout: left
         title: Data Mining
         description: | # this will include new lines to allow paragraphs
           - As a feature for these agents to help them to be able to process the entry data for their specified purposes  
           
-      - layout: top-middle
+      - layout: left
         title: Image Processing/Vision
         description: | # this will include new lines to allow paragraphs
           - An agent with the ability to see, understand, and comprehend the environments
           
-      - layout: top-middle
+      - layout: left
         title: Robotics
         description: | # this will include new lines to allow paragraphs
           - A mix of all of my prior interest :) 
