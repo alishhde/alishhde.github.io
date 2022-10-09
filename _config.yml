@@ -193,8 +193,7 @@ content:
         sub_title: An IoT based solution for better AQI in indoors
         caption: Spring-Summer 2022
         description: | # this will include new lines to allow paragraphs
-          - A solution to create an intelligent IoT node
-          - The node measures the following gasses in the indoors
+          - An intelligent IoT node the node measures the following gasses in the indoors
             - Temperature and Humidity, Smoke detection, Quality of air, Alcohol, ethanol, Carbon monoxide
           - Arduino Mega, Wi-Fi Module, DHT11, MQ2, MQ3, MQ5, MQ7, MQ135, Fan, DC Converter, LCD 
           Character Display, Buzzer, and LED make up the node’s hardware
@@ -236,8 +235,8 @@ content:
         link: https://en.umz.ac.ir/
         caption: May 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          - Internet of Things specialisation course with more than 40+ students
-          - Data Mining specialisation course with more than 35+ students
+          - Internet of Things specialization course with more than 40+ students
+          - Data Mining specialization course with more than 35+ students
           - Advanced programming course in which python have been taught to more than 30+ students
           - Matlab programming in Matlab workshop course with more than 40+ students
           - Multimedia systems with more than 20+ students 
@@ -273,7 +272,7 @@ content:
             - Python programming language teacher
             - Internet of Things teacher
               - An IoT boot camp is held every three month
-              - The boot camp is supported by Iran’s top companies and individuals
+              - The boot camp is supported by Iran’s top companies
               - Mentor of students in the implementation of their projects
           
       - layout: left
@@ -282,8 +281,8 @@ content:
         link: https://en.umz.ac.ir/
         caption: May 2021 - Persent
         description: | # this will include new lines to allow paragraphs
-          - Teacher Assistant
-          - Research Assistant
+          - Teacher Assistant in Programming Lab(Python, Matlab), Data Mining, Internet of Things
+          - Research Assistant in IoT Lab and Software Lab
           - Internet of Things laboratory manager
             - In charge of the IoT lab at UMZ
             - Head of students in implementing IoT projects
@@ -307,7 +306,7 @@ content:
 #             url: alishhde/alishhde
           
         description: | # this will include new lines to allow paragraphs
-          An presentation of how to run Function as a Service by OpenFaaS framework 
+          A presentation of how to run Function as a Service by OpenFaaS framework 
           and how to implement projects like simple python functions with its help. 
           In addition, a research on this project is on its first steps.
     
@@ -662,7 +661,7 @@ content:
          
           
 # Selected Courses #########################################################################################################
-  - title: Teaching Experience # Title for the section
+  - title: Selected Courses # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -675,7 +674,7 @@ content:
          
      
 # Language Skill  #########################################################################################################
-  - title: Experience # Title for the section
+  - title: Language Skill # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
