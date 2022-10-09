@@ -137,46 +137,26 @@ content:
         title:  Spring 2022 
         description: | # this will include new lines to allow paragraphs
           - ***Ranked 1st*** in ***Internet of Things***, among 40+ students
-          - Called as one of the ***BEST Teacher Assistant in last 10 years***
+          - Called as one of the ***BEST Teacher Assistant in last 10 years*** at the University of Mazandaran, Computer Engineering Faculty
           - ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
-          
-#       - layout: left
-#         title:  Spring 2022 
-#         description: | # this will include new lines to allow paragraphs
-#           ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
-                              
+
       - layout: left
         title: Fall 2021 
         description: | # this will include new lines to allow paragraphs
           - ***Ranked 1st*** in ***Data Mining***, among 30+ students
-          - ***Ranked 2nd*** in ***Fundamentals and Application of Artificial Intelligence***, among 35+ students
+          - ***Ranked 2nd*** in ***Fundamentals and Applications of Artificial Intelligence***, among 35+ students
           
-#       - layout: left
-#         title: Fall 2021 
-#         description: | # this will include new lines to allow paragraphs
-#           ***Ranked 2nd*** in ***Fundamentals and Application of Artificial Intelligence***, among 35+ students
-
       - layout: left
         title: Summer 2021
         description: | # this will include new lines to allow paragraphs
           - Invited ***Referee*** for ***Robotic competitions*** in 4adaAcademy 
           - Holder of ***Become Creative*** competition in Iran
           
-#       - layout: left
-#         title: Summer 2021
-#         description: | # this will include new lines to allow paragraphs
-#           Holder of ***Become Creative*** competition
-
       - layout: left
         title: Spring 2021 
         description: | # this will include new lines to allow paragraphs
           - ***Ranked 1st*** in ***Research and Presentation Method***, among 50+ students
           - ***Ranked 1st*** in ***Fundamentals of Computational Intelligence***, among 35+ students
-          
-#       - layout: left
-#         title: Spring 2021 
-#         description: | # this will include new lines to allow paragraphs
-#           ***Ranked 1st*** in ***Fundamentals of Computational Intelligence***, among 35+ students
           
       - layout: left
         title: Spring 2019
@@ -195,11 +175,11 @@ content:
     content:
       - layout: left
         title: Air Quality Index 
-        sub_title: An IoT based solution for better AQI in indoors
+        sub_title: An IoT based solution for better AQI in indoor
         caption: Spring-Summer 2022
         description: | # this will include new lines to allow paragraphs
-          - An intelligent IoT node the node measures the following gasses in the indoors
-            - Temperature and Humidity, Smoke detection, Quality of air, Alcohol, ethanol, Carbon monoxide
+          - An intelligent IoT node which measures the following gasses in the indoors
+            - Temperature and Humidity, Smoke detection, Quality of air, Alcohol, Ethanol, Carbon monoxide
           - Arduino Mega, Wi-Fi Module, DHT11, MQ2, MQ3, MQ5, MQ7, MQ135, Fan, DC Converter, LCD 
           Character Display, Buzzer, and LED make up the node’s hardware
           
@@ -209,7 +189,7 @@ content:
         caption: Winter-Spring 2022
         description: | # this will include new lines to allow paragraphs
           - 12+ groups of last semester undergraduate students have implemented various IoT projects under 
-          my supervision at the IoT lab. Some of these projects topics:
+          my supervision at the IoT lab. Some of these projects topics are:
             - Smart Garbage 
             - Smart Gym
             - Smart Parking
@@ -240,11 +220,11 @@ content:
         link: https://en.umz.ac.ir/
         caption: May 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          - Internet of Things specialization course with more than 40+ students
-          - Data Mining specialization course with more than 35+ students
-          - Advanced programming course in which python have been taught to more than 30+ students
-          - Matlab programming in Matlab workshop course with more than 40+ students
-          - Multimedia systems with more than 20+ students 
+          - ***Internet of Things specialization*** course with more than 40+ students
+          - ***Data Mining specialization*** course with more than 35+ students
+          - ***Advanced programming*** course in which python have been taught to more than 30+ students
+          - ***Matlab*** programming in Matlab workshop course with more than 40+ students
+          - ***Multimedia systems*** with more than 20+ students 
           
       - layout: left
         title: Teacher at 4adateam academy
@@ -252,9 +232,9 @@ content:
         link: https://4adateam.com/
         caption: May 2021 - March 2022     
         description: | # this will include new lines to allow paragraphs
-          - Python workshop has been held for more than 15+ hours and to 15+ students
-          - Internet of Things has been taught to more than 120+ students during 2 bootcamps
-          - Python programming course helded for 3+ times for 50+ students
+          - ***Python workshop*** has been held for more than 15+ hours and to 15+ students
+          - ***Internet of Things*** has been taught to more than 120+ students during 2 bootcamps
+          - ***Python programming*** course helded for 3+ times for 50+ students
          
           
 # Work Experience #########################################################################################################
