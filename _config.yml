@@ -383,7 +383,7 @@ content:
             url: https://github.com/alishhde/Evolutionary-Strategy-UMZ
           
         description: | # this will include new lines to allow paragraphs
-          Implementation of the genetic algorithm from scratch, without 
+          An implementation of the genetic algorithm from scratch, without 
           the assistance of pre-built modules containing this algorithm.
           In this project we wanted to find the global maximum of a given
           function with the help of genetic algorithm.
@@ -463,8 +463,8 @@ content:
             url: https://github.com/alishhde/AISearchAlgorithm
           
         description: | # this will include new lines to allow paragraphs
-          Used Python to implement a module containing BFS, DFS, Greedy,
-          UCS, A* etc algorithm. These algorithms have been implemented on
+          Used Python to implement a module containing ***BFS, DFS, Greedy,
+          UCS, A* etc*** algorithm. These algorithms have been implemented on
           the 8 puzzle problem as the default problem.
           
     # 14nd Project
@@ -484,7 +484,7 @@ content:
           ready to use algorithm like KNN, RandomForest, Naive Bayes, Decision Tree, 
           XGboost and LinearRegression to train the digits' dataset to create an 
           estimator which can predict and classify the input image. I've done similar 
-          project in Matlab Workshop course too.
+          project in Matlab Workshop course as well.
           
     # 15st Project
       - layout: left
