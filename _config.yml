@@ -251,17 +251,17 @@ content:
         caption: May 2021 - March 2022     
         description: | # this will include new lines to allow paragraphs
           - Internship
-            · Manager of Python programming department
-            · Executive manager of Become creative competition
-              · Holed in Iran
-              · Responsibilities: Manager, designer and the organizer of the competition
-            · Referee of Robotics competitions
+            - Manager of Python programming department
+            - Executive manager of Become creative competition
+              - Holed in Iran
+              - Responsibilities: Manager, designer and the organizer of the competition
+            - Referee of Robotics competitions
           - Tutoring
-            · Python programming language teacher
-            · Internet of Things teacher
-              · An IoT boot camp is held every three month
-              · The boot camp is supported by Iran’s top companies and individuals
-              · Mentor of students in the implementation of their projects
+            - Python programming language teacher
+            - Internet of Things teacher
+              - An IoT boot camp is held every three month
+              - The boot camp is supported by Iran’s top companies and individuals
+              - Mentor of students in the implementation of their projects
           
       - layout: left
         title: University of Mazandaran
@@ -272,8 +272,8 @@ content:
           - Teacher Assistant
           - Research Assistant
           - Internet of Things laboratory manager
-            · In charge of the IoT lab at UMZ
-            · Head of students in implementing IoT projects
+            - In charge of the IoT lab at UMZ
+            - Head of students in implementing IoT projects
           - Students’ mentor in the IoT laboratory
 
           
