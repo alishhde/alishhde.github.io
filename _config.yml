@@ -141,7 +141,7 @@ content:
           - ***Ranked 1st*** in ***Internet of Things***, among 40+ students
           - Called as one of the ***BEST Teacher Assistant in last 10 years*** at the University of Mazandaran, Computer Engineering Faculty
           - ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
-          - ***Presenter of a conference*** about ***OpenFaaS framework***, how to run Function as a Service with it
+          - ***Presenter of a conference*** about ***OpenFaaS framework*** and how to run a Function as a Service with it
           - ***Presenter of a conference*** with the topic ***"An Introduction to the next generation of codec(H.266)"***
      
       - layout: left
@@ -153,7 +153,7 @@ content:
       - layout: left
         title: Summer 2021
         description: | # this will include new lines to allow paragraphs
-          - Invited ***Referee*** for ***Robotic competitions*** in 4adaAcademy 
+          - Invited ***Referee*** for ***Robotic competitions*** in 4adateam
           - Holder of ***Become Creative*** competition in Iran
           
       - layout: left
@@ -310,7 +310,7 @@ content:
         caption: Winter-Spring 2022
         description: | # this will include new lines to allow paragraphs
           The project involves researching an IoT solution to monitor and control indoor 
-          air quality (More detail has been provided on Research & Practical Experience section of this page)
+          air quality (More details have been provided on Research & Practical Experience section of this page)
 
     # 4th Project
       - layout: left
@@ -629,16 +629,36 @@ content:
          
           
 # Selected Courses #########################################################################################################
-  - title: Selected Courses # Title for the section
+  - title: Special Courses # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: What am I looking for ?
-#         sub_title: B.Sc. Computer Engineering
-#         link: https://en.umz.ac.ir/
-#         caption: May 2018 - January 2023     
+        title: University of Mazandaran
+        sub_title: B.Sc. Computer Engineering
+        link: https://en.umz.ac.ir/  
         description: | # this will include new lines to allow paragraphs
-          Descriptions are here
+          - Cloud Computing (20/20)
+          - Internet of Things (20/20)
+          - Data Transmission (18.5/20)
+          - Multimedia Systems (18/20)
+          - Data Mining(20/20)
+          - Computational Intelligence (20/20)
+          - Research and Presentation(20/20)
+          - Advanced Programming (20/20)
+          - Fundamentals of Artificial Intelligence (19/20)
+          
+      - layout: left
+        title: Coursera
+        sub_title: Founded in 2012 by Stanford University, Computer Science
+        link: coursera.org/
+        description: | # this will include new lines to allow paragraphs
+          - [Supervised Machine Learning: Regression and Classification]{https://coursera.org/share/0874277a11bab448a4a0ce96deddd770}
+            - Instructor Andrew Ng offered by Stanford University
+          - [Machine Learning (In progress)]{https://www.coursera.org/learn/machine-learning#syllabus}
+            - Instructor Andrew Ng offered by Stanford University
+          - [Neural Networks and Deep Learning (In progress)]{https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning#syllabus}
+            - Instructor Andrew Ng offered by Stanford University
+
          
      
 # Language Skill  #########################################################################################################
@@ -646,33 +666,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: Languages
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            - English: Able to read, speak, write and understand (IELTS Score will be provided before the deadlines as soon as possible)
+            - Persion: Native
+            
+# # A Little More About Me #########################################################################################################
+#   - title: A Little More About Me
+#     layout: text
+#     content: | # this will include new lines to allow paragraphs
+#       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#       - Rock climbing
+#       - Gaming
+#       - Knitting
+#       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-
-# Courses #########################################################################################################
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#       Look at this cool image  
+#       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: ***References Available Upon Request***
 
 # Build settings
 remote_theme: sproogen/resume-theme
