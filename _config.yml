@@ -652,11 +652,11 @@ content:
         sub_title: Founded in 2012 by Stanford University, Computer Science
         link: coursera.org/
         description: | # this will include new lines to allow paragraphs
-          - [Supervised Machine Learning: Regression and Classification]{https://coursera.org/share/0874277a11bab448a4a0ce96deddd770}
+          - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/0874277a11bab448a4a0ce96deddd770)
             - Instructor Andrew Ng offered by Stanford University
-          - [Machine Learning (In progress)]{https://www.coursera.org/learn/machine-learning#syllabus}
+          - [Machine Learning (In progress)](https://www.coursera.org/learn/machine-learning#syllabus)
             - Instructor Andrew Ng offered by Stanford University
-          - [Neural Networks and Deep Learning (In progress)]{https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning#syllabus}
+          - [Neural Networks and Deep Learning (In progress)](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning#syllabus)
             - Instructor Andrew Ng offered by Stanford University
 
          
