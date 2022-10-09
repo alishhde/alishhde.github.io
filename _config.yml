@@ -178,7 +178,7 @@ content:
       - layout: left
         title:  Spring 2022 
         description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st in Cloud Computing***, among 30+ students
+          ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
           
           
 # Research & Practical Experience #########################################################################################################
@@ -218,12 +218,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: What am I looking for ?
-#         sub_title: B.Sc. Computer Engineering
-#         link: https://en.umz.ac.ir/
-#         caption: May 2018 - January 2023     
+        title: Teaching Assistant at UMZ
+        sub_title: At the University of Mazandaran
+        link: https://en.umz.ac.ir/
+        caption: May 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          Descriptions are here
+          - Internet of Things specialisation course with more than 40+ students
+          - Data Mining specialisation course with more than 35+ students
+          - Advanced programming course in which python have been taught to more than 30+ students
+          - Matlab programming in Matlab workshop course with more than 40+ students
+          - Multimedia systems with more than 20+ students 
+          
+      - layout: left
+        title: Teacher at 4adateam academy
+        sub_title: The number 1 academy in Tehran
+        link: https://4adateam.com/
+        caption: May 2021 - March 2022     
+        description: | # this will include new lines to allow paragraphs
+          - Python workshop has been held for more than 15+ hours and to 15+ students
+          - Internet of Things has been taught to more than 120+ students during 2 bootcamps
+          - Python programming course 
          
           
 # Work Experience #########################################################################################################
