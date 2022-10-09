@@ -141,20 +141,7 @@ content:
           - ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
           - ***Presenter of a conference*** about ***OpenFaaS framework***, how to run Function as a Service with it
           - ***Presenter of a conference*** with the topic ***"An Introduction to the next generation of codec(H.266)"***
-    
-    # 1st Project
-      - layout: left
-        title: OpenFaaS framework
-        sub_title: Cloud Computing, Personal Project 
-        caption: Spring 2022
-          
-        description: | # this will include new lines to allow paragraphs
-          A presentation of how to run Function as a Service by OpenFaaS framework 
-          and how to implement projects like simple python functions with its help. 
-          In addition, a research on this project is on its first steps.
-    
-    
-    
+     
       - layout: left
         title: Fall 2021 
         description: | # this will include new lines to allow paragraphs
@@ -295,16 +282,6 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-#     # 1st Project
-#       - layout: left
-#         title: OpenFaaS framework
-#         sub_title: Cloud Computing, Personal Project 
-#         caption: Spring 2022
-          
-#         description: | # this will include new lines to allow paragraphs
-#           A presentation of how to run Function as a Service by OpenFaaS framework 
-#           and how to implement projects like simple python functions with its help. 
-#           In addition, a research on this project is on its first steps.
     
     # 2nd Project
       - layout: left
@@ -329,16 +306,9 @@ content:
         title: Air Quality Index
         sub_title: Internet of Things, Group Project
         caption: Winter-Spring 2022
-#         link: github.com/alishhde
-#         link_text: Project Repository
-#         additional_links:
-#           - title:  Github page for project
-#             icon: fab fa-github
-#             url: alishhde/alishde
-          
         description: | # this will include new lines to allow paragraphs
           The project involves researching an IoT solution to monitor and control indoor 
-          air quality (More detail has been provided on Research section of this page)
+          air quality (More detail has been provided on Research & Practical Experience section of this page)
 
     # 4th Project
       - layout: left
