@@ -218,7 +218,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Teaching Assistant at UMZ
+        title: Teaching Assistant
         sub_title: At the University of Mazandaran
         link: https://en.umz.ac.ir/
         caption: May 2021 - Present
@@ -237,7 +237,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Python workshop has been held for more than 15+ hours and to 15+ students
           - Internet of Things has been taught to more than 120+ students during 2 bootcamps
-          - Python programming course 
+          - Python programming course helded for 3+ times for 50+ students
          
           
 # Work Experience #########################################################################################################
@@ -245,13 +245,37 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: What am I looking for ?
-#         sub_title: B.Sc. Computer Engineering
-#         link: https://en.umz.ac.ir/
-#         caption: May 2018 - January 2023     
+        title: 4adaTeam Academy  
+        sub_title: Internship & Tutor
+        link: https://4adateam.com/
+        caption: May 2021 - March 2022     
         description: | # this will include new lines to allow paragraphs
-          Descriptions are here
-         
+          - Internship
+            · Manager of Python programming department
+            · Executive manager of Become creative competition
+              · Holed in Iran
+              · Responsibilities: Manager, designer and the organizer of the competition
+            · Referee of Robotics competitions
+          - Tutoring
+            · Python programming language teacher
+            · Internet of Things teacher
+              · An IoT boot camp is held every three month
+              · The boot camp is supported by Iran’s top companies and individuals
+              · Mentor of students in the implementation of their projects
+          
+      - layout: left
+        title: University of Mazandaran
+        sub_title: TA, RA, Lab in charge
+        link: https://en.umz.ac.ir/
+        caption: May 2021 - Persent
+        description: | # this will include new lines to allow paragraphs
+          - Teacher Assistant
+          - Research Assistant
+          - Internet of Things laboratory manager
+            · In charge of the IoT lab at UMZ
+            · Head of students in implementing IoT projects
+          - Students’ mentor in the IoT laboratory
+
           
 # Projects #############################################################################################################################################
   - title: Projects # Title for the section
