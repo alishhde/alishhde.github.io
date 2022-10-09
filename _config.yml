@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Seyedali Shohadaeolhosseini
 title: Computer Engineering Student 
-email: ali.shhhde00@gmail.com
+email: alishohadahosseini@gmail.com
 # website: www.github.com/alishhde/
 
 # Dark Mode (true/false/never)
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ali and I'm a Computer Engineering Student, a Tutor, a Researcher, and as well as a knowledge seeker.
   I'm in love with the Artificial Intelligence concepts specially the part in which you 
-  can build unblievable robots or an intelligent agent what can think, interact, learn and do your
+  can build unblievable robots or an intelligent agent what can think, interact, learn and do its
   defined jobs in its more flexible way. I love any field or research when AI is part of it.  WOW the lifelong ambition... :)
   <br/>
    - I am most skilled in: 
@@ -86,7 +86,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at UMZ I learnt most of my key skills. The academic works I have done helped me to grow my career more and more and I'm now looking
           forward to continue this situation in my graduate programs. I want to continue my academic works as I can see there are a lot more knowledge
-          to be learn and problems to be solved in the world.
+          to be discovered and problems to be solved in the world.
 
           I have spent a lot of my time in the Lab working as an assistant in my last year of education.
           
@@ -95,7 +95,7 @@ content:
   - title: Research Interest # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Machine learning    
         description: | # this will include new lines to allow paragraphs
           - As a tool for creating intelligent agent in our projects
