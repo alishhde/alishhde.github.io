@@ -139,7 +139,22 @@ content:
           - ***Ranked 1st*** in ***Internet of Things***, among 40+ students
           - Called as one of the ***BEST Teacher Assistant in last 10 years*** at the University of Mazandaran, Computer Engineering Faculty
           - ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
-
+          - ***Presenter of a conference*** about ***OpenFaaS framework***, how to run Function as a Service with it
+          - ***Presenter of a conference*** with the topic ***"An Introduction to the next generation of codec(H.266)"***
+    
+    # 1st Project
+      - layout: left
+        title: OpenFaaS framework
+        sub_title: Cloud Computing, Personal Project 
+        caption: Spring 2022
+          
+        description: | # this will include new lines to allow paragraphs
+          A presentation of how to run Function as a Service by OpenFaaS framework 
+          and how to implement projects like simple python functions with its help. 
+          In addition, a research on this project is on its first steps.
+    
+    
+    
       - layout: left
         title: Fall 2021 
         description: | # this will include new lines to allow paragraphs
@@ -247,20 +262,19 @@ content:
         link: https://4adateam.com/
         caption: May 2021 - March 2022     
         description: | # this will include new lines to allow paragraphs
-          - ***Internship***
+          - Internship
             - Python programming department
               - First I was a ***Teacher***
-              - Then I have choosen as a course and its material ***Planner***
+              - Then I have choosen as a course and its curriculum ***Planner***
               - At last I have been chosen as the ***Manager*** of the python department 
-            - Executive manager of Become creative competition
+            - Executive manager of ***Become creative*** competition
               - Held in Iran
               - Responsibilities: Manager, designer and the organizer of the competition
             - Referee of Robotics competitions
-          - ***Tutoring***
+          - Tutoring
             - Python programming language teacher
             - Internet of Things teacher
-              - An IoT boot camp held every season
-              - The boot camp is supported by Iran’s top companies
+              - An IoT boot camp held every season and it is supported by Iran’s top companies
               - Mentor of students in the implementation of their projects
           
       - layout: left
@@ -281,22 +295,16 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    # 1st Project
-      - layout: left
-        title: OpenFaaS framework
-        sub_title: Cloud Computing, Personal Project 
-        caption: Spring 2022
-#         link: github.com/alishhde
-#         link_text: Project Repository
-#         additional_links:
-#           - title:  Github page for project
-#             icon: fab fa-github
-#             url: alishhde/alishhde
+#     # 1st Project
+#       - layout: left
+#         title: OpenFaaS framework
+#         sub_title: Cloud Computing, Personal Project 
+#         caption: Spring 2022
           
-        description: | # this will include new lines to allow paragraphs
-          A presentation of how to run Function as a Service by OpenFaaS framework 
-          and how to implement projects like simple python functions with its help. 
-          In addition, a research on this project is on its first steps.
+#         description: | # this will include new lines to allow paragraphs
+#           A presentation of how to run Function as a Service by OpenFaaS framework 
+#           and how to implement projects like simple python functions with its help. 
+#           In addition, a research on this project is on its first steps.
     
     # 2nd Project
       - layout: left
