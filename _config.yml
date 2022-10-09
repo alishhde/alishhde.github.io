@@ -126,22 +126,43 @@ content:
           - A mix of all of my prior interest :) 
           <br/><br/><br/>
           My interests are totally in artificial intelligence and its concepts so any job/position that somehow relates to the AI concepts is OK and
-          Acceptable.
+          ACCEPTABLE.
           
 # Honor & Rewards ############################################################################################################################
   - title: Honor & Rewards # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
       - layout: left
-        title: Summer 2018
+        title:  Spring 2022 
         description: | # this will include new lines to allow paragraphs
-          ***Ranked top 2%*** of the Nationwide Matriculation Exam (Konkoor)
+          ***Ranked 1st*** in ***Internet of Things***, among 40+ students
           
       - layout: left
-        title: Spring 2019
+        title:  Spring 2022 
         description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st*** in ***Python Advanced Programming***, among 45+ students
+          ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
+                              
+      - layout: left
+        title: Fall 2021 
+        description: | # this will include new lines to allow paragraphs
+          ***Ranked 1st*** in ***Data Mining***, among 30+ students
           
+      - layout: left
+        title: Fall 2021 
+        description: | # this will include new lines to allow paragraphs
+          ***Ranked 2nd*** in ***Fundamentals and Application of Artificial Intelligence***, among 35+ students
+
+      - layout: left
+        title: Summer 2021
+        description: | # this will include new lines to allow paragraphs
+           Invited ***Referee*** for ***Robotic competitions***
+          
+      - layout: left
+        title: Summer 2021
+        description: | # this will include new lines to allow paragraphs
+          Holder of ***Become Creative*** competition
+
       - layout: left
         title: Spring 2021 
         description: | # this will include new lines to allow paragraphs
@@ -153,36 +174,16 @@ content:
           ***Ranked 1st*** in ***Fundamentals of Computational Intelligence***, among 35+ students
           
       - layout: left
-        title: Summer 2021
+        title: Spring 2019
         description: | # this will include new lines to allow paragraphs
-           Invited ***Referee*** for ***Robotic competitions***
+          ***Ranked 1st*** in ***Python Advanced Programming***, among 45+ students
           
       - layout: left
-        title: Summer 2021
+        title: Summer 2018
         description: | # this will include new lines to allow paragraphs
-          Holder of ***Become Creative*** competition
+          ***Ranked top 2%*** of the Nationwide Matriculation Exam (Konkoor)
           
-      - layout: left
-        title: Fall 2021 
-        description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st*** in ***Data Mining***, among 30+ students
-          
-      - layout: left
-        title: Fall 2021 
-        description: | # this will include new lines to allow paragraphs
-          ***Ranked 2nd*** in ***Fundamentals and Application of Artificial Intelligence***, among 35+ students
-          
-      - layout: left
-        title:  Spring 2022 
-        description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st*** in ***Internet of Things***, among 40+ students
-          
-      - layout: left
-        title:  Spring 2022 
-        description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
-          
-          
+
 # Research & Practical Experience #########################################################################################################
   - title: Research & Practical Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -204,7 +205,17 @@ content:
         caption: Winter-Spring 2022
         description: | # this will include new lines to allow paragraphs
           - 12+ groups of last semester undergraduate students have implemented various IoT projects under 
-          my supervision at the IoT lab
+          my supervision at the IoT lab. Some of these projects topics:
+            - Smart Garbage 
+            - Smart Gym
+            - Smart Parking
+            - Smart Refrigenerator
+            - Smart Shoes
+            - Smart Agriculture
+            - Smart Farm
+            - Smart House
+            - Smart Doorbell
+            - Smart Watch (Wewatch)
       
       - layout: left
         title: Function aa Service        
