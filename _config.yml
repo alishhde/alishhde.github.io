@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ali and I'm a Computer Engineering Student, a Tutor, a Researcher, and as well as a knowledge seeker.
   I'm in love with the Artificial Intelligence concepts specially the part in which you 
   can build unblievable robots or an intelligent agent what can think, interact, learn and do your
-  defined jobs in its more flexible way. WOW the lifelong ambition... :)
+  defined jobs in its more flexible way. I love any field or research when AI is part of it.  WOW the lifelong ambition... :)
   <br/>
    - I am most skilled in: 
       - <mark>Programming</mark> specially with <mark>python</mark>
@@ -84,11 +84,11 @@ content:
           made significant progress, expanding itself with vision both qualitatively and quantitatively.
           
         description: | # this will include new lines to allow paragraphs
-          During my time at UMZ I learnt most of my key skills that have I have taken through my career such as 
-          teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot 
-          about various things in computer world and as well as various life aspects.
+          During my time at UMZ I learnt most of my key skills. The academic works I have done helped me to grow my career more and more and I'm now looking
+          forward to continue this situation in my graduate programs. I want to continue my academic works as I can see there are a lot more knowledge
+          to be learn and problems to be solved in the world.
 
-          I spent a lot of my time in the Lab working as an assistant in my last year of education.
+          I have spent a lot of my time in the Lab working as an assistant in my last year of education.
           
           
 # Research Interest ##############################################################################################################################
@@ -113,12 +113,12 @@ content:
       - layout: top-middle
         title: Data Mining
         description: | # this will include new lines to allow paragraphs
-          - As a feature for these agents to help them to be able to process the entry data for their speecified purposes  
+          - As a feature for these agents to help them to be able to process the entry data for their specified purposes  
           
       - layout: top-middle
         title: Image Processing/Vision
         description: | # this will include new lines to allow paragraphs
-          - The agent also have eyes to see, understand, and comprehend 
+          - An agent with the ability to see, understand, and comprehend the environments
           
       - layout: top-middle
         title: Robotics
@@ -136,52 +136,57 @@ content:
       - layout: left
         title:  Spring 2022 
         description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st*** in ***Internet of Things***, among 40+ students
+          - ***Ranked 1st*** in ***Internet of Things***, among 40+ students
+          - Called as one of the ***BEST Teacher Assistant in last 10 years***
+          - ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
           
-      - layout: left
-        title:  Spring 2022 
-        description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
+#       - layout: left
+#         title:  Spring 2022 
+#         description: | # this will include new lines to allow paragraphs
+#           ***Ranked 1st*** in ***Cloud Computing***, among 30+ students
                               
       - layout: left
         title: Fall 2021 
         description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st*** in ***Data Mining***, among 30+ students
+          - ***Ranked 1st*** in ***Data Mining***, among 30+ students
+          - ***Ranked 2nd*** in ***Fundamentals and Application of Artificial Intelligence***, among 35+ students
           
-      - layout: left
-        title: Fall 2021 
-        description: | # this will include new lines to allow paragraphs
-          ***Ranked 2nd*** in ***Fundamentals and Application of Artificial Intelligence***, among 35+ students
+#       - layout: left
+#         title: Fall 2021 
+#         description: | # this will include new lines to allow paragraphs
+#           ***Ranked 2nd*** in ***Fundamentals and Application of Artificial Intelligence***, among 35+ students
 
       - layout: left
         title: Summer 2021
         description: | # this will include new lines to allow paragraphs
-           Invited ***Referee*** for ***Robotic competitions***
+          - Invited ***Referee*** for ***Robotic competitions*** in 4adaAcademy 
+          - Holder of ***Become Creative*** competition in Iran
           
-      - layout: left
-        title: Summer 2021
-        description: | # this will include new lines to allow paragraphs
-          Holder of ***Become Creative*** competition
+#       - layout: left
+#         title: Summer 2021
+#         description: | # this will include new lines to allow paragraphs
+#           Holder of ***Become Creative*** competition
 
       - layout: left
         title: Spring 2021 
         description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st*** in ***Research and Presentation Method***, among 50+ students
+          - ***Ranked 1st*** in ***Research and Presentation Method***, among 50+ students
+          - ***Ranked 1st*** in ***Fundamentals of Computational Intelligence***, among 35+ students
           
-      - layout: left
-        title: Spring 2021 
-        description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st*** in ***Fundamentals of Computational Intelligence***, among 35+ students
+#       - layout: left
+#         title: Spring 2021 
+#         description: | # this will include new lines to allow paragraphs
+#           ***Ranked 1st*** in ***Fundamentals of Computational Intelligence***, among 35+ students
           
       - layout: left
         title: Spring 2019
         description: | # this will include new lines to allow paragraphs
-          ***Ranked 1st*** in ***Python Advanced Programming***, among 45+ students
+          - ***Ranked 1st*** in ***Python Advanced Programming***, among 45+ students
           
       - layout: left
         title: Summer 2018
         description: | # this will include new lines to allow paragraphs
-          ***Ranked top 2%*** of the Nationwide Matriculation Exam (Konkoor)
+          - ***Ranked top 2%*** of the Nationwide Matriculation Exam (Konkoor)
           
 
 # Research & Practical Experience #########################################################################################################
