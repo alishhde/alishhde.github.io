@@ -248,15 +248,18 @@ content:
         caption: May 2021 - March 2022     
         description: | # this will include new lines to allow paragraphs
           - ***Internship***
-            - Manager of Python programming department
+            - Python programming department
+              - First I was a ***Teacher***
+              - Then I have choosen as a course and its material ***Planner***
+              - At last I have been chosen as the ***Manager*** of the python department 
             - Executive manager of Become creative competition
-              - Holed in Iran
+              - Held in Iran
               - Responsibilities: Manager, designer and the organizer of the competition
             - Referee of Robotics competitions
           - ***Tutoring***
             - Python programming language teacher
             - Internet of Things teacher
-              - An IoT boot camp is held every three month
+              - An IoT boot camp held every season
               - The boot camp is supported by Iran’s top companies
               - Mentor of students in the implementation of their projects
           
