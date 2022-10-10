@@ -1,0 +1,303 @@
+Temidayo
+
+# sidebar
+
+alt = Temidayo
+Temidayo
+Business Consultant
+
+Show Contacts
+
+Email
+contact@temidayo.xyz
+
+Phone
++23490315CLICK
+
+Location
+Nigeria
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+Hello there!
+
+I am a Business Consultant who helps businesses launch and grow online by creating and executing marketing plans, providing guidance on content creation, design and website development.
+
+I have several years of experience in online marketing and have helped businesses from a wide range of industries achieve success. I also have a background in business marketing, and I'm dedicated to helping small businesses achieve their desired outcomes.
+
+My ultimate goal is to help small businesses make more money through online channels. So, whether you're just starting out or you've been online for a while, I can help you take your business to the next level.
+
+Contact me today to discuss your business challenges or needs and see how I can help your business grow. Vamos!
+
+
+## service
+
+What I do
+
+alt = content icon
+Content Writing
+I am a full-stack writer who writes content for b2b companies. I also write cool, effective, and shameless copy that drives desired actions from your audience. I specialise in business, marketing, tech, and other topics. I am versatile and adaptable, which makes me excel at creating amazing content on any given topic.
+
+alt = web development icon
+Website Development
+I'm the guy that launched a website literally 5 minutes after being asked to, by one of my clients. I build responsive websites for individuals and organizations with a focus on aesthetics, usability, and user experience. My goal is to help you turn your business into a fully functioning machine that converts visitors into customers, then customers into repeat customers.
+
+alt = design
+Design
+I'm an Ideas Artist. I help individuals like you and businesses like yours with strategic design and identity work to align your brand's message and positioning with your target audience through narrative, language and visual storytelling + design thinking. I specialize in creating brand identities, website designs, mobile apps designs, and more for businesses.
+
+alt = strategy
+Strategy
+I'm a digital strategist pro who has helped entrepreneurs and small businesses build online and social media strategies that help them grow. I help businesses like yours create digital strategies that are effective and resonate with your target audiences. I believe that strategy is the key that unlocks business success, so I get deep into how we can create more value for your business.
+
+
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel Lewis
+Daniel Lewis
+I was introduced to Temidayo just as I was about to embark on a major business project, and he came through for me with flying colours. His writing is fresh, creative and engaging, and it's the best quality I've seen in my many years as a writer. The guy is a beast, he just writes and writes, good stuff!
+
+alt = Rebecca Jaxon
+Rebecca Jaxon
+I have been working with Temidayo for over a year now and I am very happy with his content writing services. He is very responsive, patient, reliable and delivers high quality content on time. I would highly recommend him to anyone looking for fast results and professional copywriting or content writing services.
+
+alt = Dorothy Adedotun
+Dorothy Adedotun
+There is no one else I will trust with my design and development work. Temidayo is a true professional, and the quality of his work is unmatched. He takes the time to understand your needs, and then goes above and beyond to exceed even your highest expectations. If you have any kind of design or web development need, I urge you to talk to him first!
+
+alt = Mesioye Johnson
+Mesioye Johnson
+Temidayo is a magician, and I'm not talking about his tricks. He is the most helpful digital strategists I have ever met. The way he approaches his work and the way he helps you achieve your goals, is truly refreshing. He's not afraid to go the extra mile to help you get to where you want to be. He's the real deal.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Max Business School
+2020 — 2021
+MSc Marketing & Brand Management.
+
+University of Ilorin
+2016 — 2020
+BSc Sociology.
+
+Google, Udemy, & Hubspot
+2018 — 2020
+Marketing certificates.
+
+Experience
+
+Creative director, Foenix Hub
+2017 — Present
+Directs the design, development, and digital marketing activities.
+
+Website Developer, Mesileum
+2021 — 2022
+Designed, developed, and managed company's web application and activities.
+
+Content Marketer, Ezdia Inc
+2020 — 2021
+Developed eCommerce content to increase traffic and brand awareness online.
+
+My skills
+
+Problem-solving
+100%
+Writing
+100%
+Development
+100%
+Design
+100%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Brand design
+Web Design
+Mobile App Design
+Development
+
+Select category
+All
+Brand design
+Web Design
+Mobile App Design
+Development
+
+alt = bamboo
+Bamboo
+Brand design
+
+alt = boomify
+Boomify
+Brand design
+
+alt = coffeebury
+Coffeebury
+Brand design
+
+alt = lagos
+Lagos
+Brand design
+
+alt = yum crunchie
+Yum Crunchie
+Brand design
+
+alt = furniture app
+Furniture App
+Mobile App Design
+
+alt = ecommerce app
+ECommerce App
+Mobile App Design
+
+alt = signup
+Forum Signup App
+Mobile App Design
+
+alt = music app
+Music App
+Mobile App Design
+
+alt = minimalist app
+Minimalist App
+Mobile App Design
+
+alt = expolitusng
+Expolitus Ng
+Web Design
+
+alt = temidayo
+Temidayo
+Web Design
+
+alt = mesileum
+Mesileum
+Web Design
+
+alt = talkingpen
+Talkingpen Enterprise
+Web Design
+
+alt = lmm
+Learn Money Making
+Web Design
+
+alt = emminex media
+Emminex Media
+Development
+
+alt = unserious collective
+Unserious Collective
+Development
+
+alt = ksa
+KSA Website
+Development
+
+alt = foenix scholar
+Foenix Scholar
+Development
+
+alt = foenix hub
+Foenix Hub
+Development
+
+
+
+# blog
+
+Blog
+
+alt = article
+Cybersecurity
+June 14, 2021
+Log4Shell: Could This Be The Mother of All Vulnerabilities?
+Click to read.
+
+alt = article
+Automotive
+June 14, 2021
+8 Things Porsche Owners Keep Quiet About
+Click to read.
+
+alt = article
+Design & Development
+June 14, 2021
+WEBSITE DESIGN: Things You Didn’t Know You Didn’t Know
+Click to read.
+
+alt = article
+Cryptocurrency & NFT
+June 14, 2021
+5 Reasons NFT Is A Waste Of Time
+Click to read.
+
+alt = article
+Digital Marketing
+June 14, 2021
+Leveraging TikTok for Your Brand Visibility in 2022
+Click to read.
+
+alt = article
+Automotive
+June 14, 2021
+10 Supercars That Aren't As Cool As Everyone Thinks
+Click to read.
+
+alt = article
+Productivity
+June 14, 2021
+Tired of Grammarly? Here are 5 Free Grammarly Alternatives Worth Trying
+Click to read.
+
+alt = article
+Digital Marketing
+June 14, 2021
+Adaptive Marketing: Leveraging Shifting Trends
+Click to read.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
